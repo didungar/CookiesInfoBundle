@@ -1,0 +1,20 @@
+{
+    "name": "DidUngar/CookiesInfoBundleBundle",
+    "type": "library",
+    "description": "Bundle SF, Boostrap complient, for respect loi : https://www.cnil.fr/fr/cookies-traceurs-que-dit-la-loi",
+    "authors": [
+        {
+            "name": "Didier Ungar",
+            "email": "didungar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["/"]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
+    }
+}
+
